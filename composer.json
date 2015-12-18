@@ -14,6 +14,12 @@
             "email": "prodcd@qq.com"
         }
     ],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/prodcd/yii2-mini-forum.git"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "*"
     },
