@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "prodcd\\mini-forum\\": ""
+            "prodcd\\yii2-mini-forum\\": ""
         }
     }
 }
