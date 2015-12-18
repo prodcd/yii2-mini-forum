@@ -1,8 +1,8 @@
 <?php
 
-namespace app\modules\prodcd;
+namespace prodcd\yii2-mini-forum;
 
-class yii2miniForum extends \yii\base\Module
+class yii2-mini-forum extends \yii\base\Module
 {
     public $controllerNamespace = 'app\modules\prodcd\controllers';
 

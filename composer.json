@@ -5,8 +5,8 @@
     "type": "yii2-module",
     "license": "Apache License v2.0",
     "support": {
-        "issues": "https://github.com/prodcd/yii2-miniForum/issues",
-        "source": "https://github.com/prodcd/yii2-miniForum"
+        "issues": "https://github.com/prodcd/yii2-mini-forum/issues",
+        "source": "https://github.com/prodcd/yii2-mini-forum"
     },
     "authors": [
         {
