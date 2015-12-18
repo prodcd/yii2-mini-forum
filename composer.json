@@ -1,0 +1,25 @@
+{
+    "name": "prodcd/yii2-mini-forum",
+    "description": "a yii2 mini forum",
+    "keywords": ["yii2", "forum"],
+    "type": "yii2-module",
+    "license": "Apache License v2.0",
+    "support": {
+        "issues": "https://github.com/prodcd/yii2-miniForum/issues",
+        "source": "https://github.com/prodcd/yii2-miniForum"
+    },
+    "authors": [
+        {
+            "name": "prodcd,kbless",
+            "email": "prodcd@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "prodcd\\mini-forum\\": ""
+        }
+    }
+}
