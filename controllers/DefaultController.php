@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\prodcd\controllers;
+namespace prodcd\miniforum\controllers;
 
 use yii\web\Controller;
 
